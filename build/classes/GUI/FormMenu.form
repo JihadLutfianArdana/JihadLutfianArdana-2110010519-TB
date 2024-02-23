@@ -174,7 +174,7 @@
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                       <Font name="Segoe UI" size="12" style="1"/>
                     </Property>
-                    <Property name="text" type="java.lang.String" value="REKAP ABSEN PEGAWAI"/>
+                    <Property name="text" type="java.lang.String" value="REKAP ABSENSI PEGAWAI"/>
                   </Properties>
                   <Events>
                     <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnRekapAbsensiActionPerformed"/>

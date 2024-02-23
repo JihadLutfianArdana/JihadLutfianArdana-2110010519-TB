@@ -51,7 +51,7 @@ public class FormMenu extends javax.swing.JFrame {
         });
 
         btnRekapAbsensi.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        btnRekapAbsensi.setText("REKAP ABSEN PEGAWAI");
+        btnRekapAbsensi.setText("REKAP ABSENSI PEGAWAI");
         btnRekapAbsensi.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnRekapAbsensiActionPerformed(evt);
